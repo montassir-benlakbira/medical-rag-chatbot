@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Large data files - stay local only
+data/raw/
+data/processed/
+data/chromadb/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables - never push API keys
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
