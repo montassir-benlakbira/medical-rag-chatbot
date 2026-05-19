@@ -64,7 +64,7 @@ for descriptor in root.findall("DescriptorRecord"):
     except Exception:
         continue
 
-# Save results
+# &Save results
 output_path = os.path.join(OUTPUT_DIR, "mesh_terms.json")
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(mesh_terms, f, ensure_ascii=False, indent=2)

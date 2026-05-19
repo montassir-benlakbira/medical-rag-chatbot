@@ -1,0 +1,196 @@
+[
+  {
+    "question_id": 1,
+    "question": "What are the main causes of chest pain in adult patients?",
+    "answer": "Chest pain in adult patients can be caused by a variety of factors, including coronary artery disease, which can lead to myocardial infarction or angina. Non-coronary causes of chest pain can also be significant, such as pulmonary congestion, which can be associated with short- and intermediate-term mortality. Additionally, conditions like coronary spasm, acute myocarditis, and other cardiac issues can also present with chest pain.",
+    "total_time_sec": 3.332,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "How is myocardial infarction diagnosed and what are its symptoms?",
+    "answer": "Myocardial infarction, commonly known as a heart attack, is typically diagnosed through a combination of clinical evaluation, electrocardiogram (ECG) changes, and laboratory tests. The diagnosis often involves identifying specific patterns on an ECG, such as ST segment elevation, and elevated levels of certain serum markers, like troponins.\n\nSymptoms of myocardial infarction can vary from person to person but often include chest pain or discomfort, which may radiate to the arm, neck, jaw, or back. This pain can be described as a squeezing, fullness, or pressure sensation. Other possible symptoms include shortness of breath, lightheadedness, nausea, and fatigue. In some cases, people may experience no symptoms at all, or the symptoms may be mild and not immediately recognized as a heart attack.\n\nIt's worth noting that preinfarction angina, which is a transient and short-lasting anginal pain preceding the development of a heart attack, may be a symptom that some people experience before a myocardial infarction. However, this is not a definitive symptom and should not be relied upon for diagnosis.",
+    "total_time_sec": 0.785,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "What is the difference between stable and unstable angina?",
+    "answer": "Stable angina is characterized by predictable and recurring episodes of chest pain, typically triggered by physical activity or stress, and relieved by rest or medication. It is often a symptom of coronary artery disease, where the blood flow to the heart muscle is partially blocked.\n\nUnstable angina, on the other hand, is a more severe and unpredictable form of chest pain, often occurring at rest or with minimal physical activity. It is a warning sign that a heart attack may be imminent, as the blockage in the coronary artery is more severe and can lead to a complete blockage of blood flow to the heart muscle.\n\nIn the context of the provided information, unstable angina is mentioned as a high-risk condition that can be indicated by elevated levels of choline in patients without acute myocardial infarction, suggesting that choline may be a useful marker for identifying patients at risk of unstable angina.",
+    "total_time_sec": 1.142,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What are the treatment options for heart failure?",
+    "answer": "Dosages of certain agents, such as digoxin, must be carefully adjusted when treating patients with congestive heart failure. Additionally, the judicious use of certain medications, including diuretics, adrenergic inhibitors, and vasodilators, may be indicated in the management of heart failure.",
+    "total_time_sec": 0.42,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "What are the symptoms and causes of pulmonary embolism?",
+    "answer": "Pulmonary embolism is often associated with symptoms such as new or ongoing shortness of breath, particularly in patients who have recently had a COVID-19 infection. In some cases, it may also be linked to COVID-19 pneumonia, which can be diagnosed through chest X-rays or CT scans.\n\nThe causes of pulmonary embolism can be multifactorial, but in the context of COVID-19, it is more likely to develop in patients with higher New York Heart Association (NYHA) classes, indicating more severe heart failure. This suggests that underlying cardiovascular conditions may play a role in the development of pulmonary embolism.\n\nIn addition, certain symptoms and conditions, such as pleural effusion and postero-basal lung involvement, may increase the risk of pulmonary embolism. However, the exact causes and risk factors for pulmonary embolism are complex and may involve a combination of genetic, environmental, and lifestyle factors.",
+    "total_time_sec": 0.732,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "How is pneumonia diagnosed and treated?",
+    "answer": "Pneumonia can be diagnosed using various methods, including chest X-rays and CT-scans. In some cases, pulmonary embolism may be associated with pneumonia and can be diagnosed using CT-scans as well. \n\nTreatment for pneumonia may involve antiviral treatment, antibiotic therapy, and glucocorticoid therapy. In some cases, invasive mechanical ventilation may be necessary. However, the use of inhaled corticosteroids may also be considered, but it's essential to weigh the risks and benefits, especially in patients with chronic obstructive pulmonary disease (COPD) and asthma.",
+    "total_time_sec": 0.623,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What distinguishes asthma from COPD?",
+    "answer": "A definitive diagnosis is essential for correct treatment, as distinguishing between these two diseases can be difficult due to symptomatic similarities. The presence or absence of reversible airflow obstruction traditionally differentiates asthma from COPD.",
+    "total_time_sec": 5.642,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "What are the risk factors for lung cancer?",
+    "answer": "Breathlessness on effort and cough and phlegm are associated with an increased risk of lung cancer deaths. Specifically, a higher score for breathlessness and cough and phlegm is linked to a higher hazard ratio for lung cancer deaths.",
+    "total_time_sec": 12.709,
+    "sources": [
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "What are the early warning signs of a stroke?",
+    "answer": "The early warning signs of a stroke can be subtle and may not always be immediately apparent. However, some common symptoms that may indicate a stroke include a sudden and severe headache, often described as the worst headache of one's life. Additionally, patients may experience a sudden change in their level of consciousness, confusion, or difficulty speaking or understanding speech. Other warning signs may include weakness or numbness in the face, arm, or leg, difficulty walking, dizziness, or loss of balance. It's essential to seek immediate medical attention if any of these symptoms occur, as prompt treatment can significantly improve outcomes.",
+    "total_time_sec": 7.793,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "How is epilepsy classified and treated?",
+    "answer": "Epilepsy is classified into various categories based on the type of seizures, their frequency, and the underlying cause. It can be further divided into different subtypes, such as focal or generalized seizures, and can be described as intractable or not intractable.\n\nTreatment for epilepsy typically involves a combination of medications, lifestyle modifications, and in some cases, surgery. The goal of treatment is to control seizures and improve the quality of life for individuals with epilepsy. Medications, such as antiepileptic drugs, are often the first line of treatment and can be effective in managing seizures. In some cases, surgery may be necessary to remove the area of the brain responsible for seizures. Lifestyle modifications, such as maintaining a healthy diet, getting regular exercise, and managing stress, can also help reduce the frequency and severity of seizures.",
+    "total_time_sec": 5.848,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What are the symptoms of multiple sclerosis?",
+    "answer": "Common clinical manifestations of this condition include loss of visual function, motor function, sensory function, or bladder function. Acute episodes of demyelination may occur at any site in the central nervous system, and commonly involve the optic nerves, spinal cord, brain stem, and cerebellum.",
+    "total_time_sec": 11.582,
+    "sources": [
+      "MeSH",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What causes severe headache with neck stiffness?",
+    "answer": "Severe headache with neck stiffness can be caused by various factors, including infections such as meningitis, which is an inflammation of the protective membranes covering the brain and spinal cord. This condition can be life-threatening and requires prompt medical attention. Other possible causes may include subarachnoid hemorrhage, a type of stroke, or even a severe viral or bacterial infection.",
+    "total_time_sec": 5.643,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "What are the symptoms of Crohn disease?",
+    "answer": "Crohn's disease can cause a wide range of symptoms, which may vary depending on the location and severity of the disease. Common symptoms include abdominal pain and cramping, diarrhea, weight loss, fatigue, loss of appetite, and rectal bleeding. Some people may also experience skin rashes, joint pain, and eye inflammation. In severe cases, Crohn's disease can lead to complications such as bowel obstruction, fistulas, and malnutrition.",
+    "total_time_sec": 5.645,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "How is hepatitis B different from hepatitis C?",
+    "answer": "Hepatitis B and hepatitis C are two distinct liver infections caused by different viruses. Hepatitis B is caused by the hepatitis B virus (HBV), while hepatitis C is caused by the hepatitis C virus (HCV). These viruses have different modes of transmission, symptoms, and effects on the liver.\n\nHepatitis B is primarily spread through bodily fluids, such as blood and semen, through activities like unprotected sex, sharing needles, and mother-to-child transmission during birth. It can also be spread through vertical transmission from an infected mother to her child during delivery.\n\nHepatitis C, on the other hand, is primarily spread through blood-to-blood contact, such as sharing needles or syringes, and through vertical transmission from an infected mother to her child during birth. It can also be spread through blood transfusions, organ transplants, and medical procedures that involve the use of contaminated equipment.\n\nIn terms of symptoms, hepatitis B and hepatitis C can present similarly, with symptoms such as fatigue, loss of appetite, nausea, and jaundice. However, hepatitis C is often asymptomatic in its early stages, and it can take years or even decades for symptoms to develop.\n\nIn terms of liver damage, both hepatitis B and hepatitis C can cause chronic liver disease, cirrhosis, and liver cancer. However, hepatitis C is more likely to cause chronic liver disease and liver cancer, particularly if left untreated.\n\nTreatment for hepatitis B and hepatitis C involves antiviral medications, which can help to suppress the virus and prevent further liver damage. In some cases, liver transplantation may be necessary to treat advanced liver disease.\n\nOverall, while both hepatitis B and hepatitis C are serious liver infections, they have distinct differences in terms of their causes, symptoms, and effects on the liver.",
+    "total_time_sec": 11.073,
+    "sources": [
+      "ICD-10",
+      "MeSH",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What are the signs of liver cirrhosis?",
+    "answer": "Liver cirrhosis is a condition characterized by scarring of the liver, which can lead to various symptoms and signs. Some common signs of liver cirrhosis include:\n\n1. Jaundice: a yellowing of the skin and eyes due to a buildup of bilirubin in the blood.\n2. Fatigue: feeling weak and tired due to the liver's inability to detoxify the body.\n3. Weight loss: loss of appetite and weight due to the liver's inability to process nutrients.\n4. Abdominal swelling: fluid buildup in the abdomen due to liver failure.\n5. Spider nevi: small, red spots on the skin due to increased estrogen levels.\n6. Gynecomastia: breast tissue growth in men due to hormonal imbalances.\n7. Easy bruising: due to decreased clotting factors in the blood.\n8. Pale stools: due to a lack of bile in the digestive system.\n9. Dark urine: due to a buildup of bilirubin in the urine.\n10. Loss of appetite: due to the liver's inability to process nutrients.\n\nIt's worth noting that some of these signs may not be specific to liver cirrhosis and can be caused by other conditions as well. A proper diagnosis by a healthcare professional is necessary to determine the underlying cause of these symptoms.",
+    "total_time_sec": 10.957,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What causes acute abdominal pain in adults?",
+    "answer": "Acute abdominal pain in adults can be caused by a variety of factors, including infections, inflammation, and physical trauma. Infections such as appendicitis, diverticulitis, and pancreatitis can cause severe abdominal pain. Inflammation due to conditions like inflammatory bowel disease (IBD) or inflammatory myofibroblastic tumor can also lead to acute abdominal pain. Physical trauma, such as a contusion or puncture wound, can cause abdominal pain due to injury to internal organs.",
+    "total_time_sec": 9.616,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What are the diagnostic criteria for diabetes mellitus type 2?",
+    "answer": "The diagnostic criteria for diabetes mellitus type 2 are not explicitly mentioned in the provided context information. However, it is mentioned that the exclusion of the autoimmune origin of the diabetes mellitus can be a valid clue for the diagnosis of a specific condition. This implies that the diagnosis of diabetes mellitus type 2 might involve ruling out other causes, such as autoimmune disorders, and considering the presence of other symptoms or conditions.",
+    "total_time_sec": 6.597,
+    "sources": [
+      "ICD-10",
+      "MeSH",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "How is hypertension classified and managed?",
+    "answer": "Hypertension is typically classified based on blood pressure levels, with different categories indicating varying levels of risk. Management of hypertension often involves a combination of lifestyle modifications and pharmacological interventions.\n\nIn terms of classification, blood pressure readings are usually categorized as follows: normal, elevated, stage 1 hypertension, and stage 2 hypertension. The specific classification and management approach may vary depending on individual patient factors and the presence of other health conditions.\n\nManagement of hypertension often involves a multi-faceted approach, including:\n\n1. Lifestyle modifications: These may include dietary changes, increased physical activity, weight loss, and reduced sodium intake.\n2. Pharmacological interventions: These may include the use of diuretics, adrenergic inhibitors, and vasodilators, as well as other medications to manage associated conditions such as high blood pressure, heart failure, and arrhythmias.\n\nIt's essential to work closely with a healthcare provider to determine the best approach for managing hypertension, as individualized treatment plans may vary depending on specific patient needs and circumstances.",
+    "total_time_sec": 8.907,
+    "sources": [
+      "ICD-10",
+      "MeSH",
+      "PubMed"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What are the causes of unexplained weight loss?",
+    "answer": "Unexplained weight loss can be caused by a variety of factors, including certain medical conditions, changes in appetite, and other underlying health issues. Some possible causes of unexplained weight loss include malnutrition, metabolic disorders, and gastrointestinal problems. Additionally, certain medications or hormonal imbalances can also contribute to weight loss. In some cases, unexplained weight loss may be a symptom of a more serious underlying condition that requires medical attention.",
+    "total_time_sec": 5.603,
+    "sources": [
+      "ICD-10"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "What conditions can cause high fever with skin rash?",
+    "answer": "Several conditions can cause high fever with a skin rash. These include infections such as certain types of bacterial infections, viral infections, and fungal infections. Some examples include impetigo, which is a bacterial infection that can cause a skin rash and fever, and certain types of viral infections like measles, which can cause a high fever and a characteristic skin rash. Additionally, some cases of tuberculosis can also present with a skin rash and fever.",
+    "total_time_sec": 5.792,
+    "sources": [
+      "ICD-10",
+      "PubMed"
+    ]
+  }
+]

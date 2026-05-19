@@ -1,0 +1,60 @@
+{
+  "langchain": {
+    "avg_quality_score": 5.3,
+    "avg_total_time": 5.753,
+    "quality_wins": 2,
+    "per_question_scores": [
+      2.0,
+      8.0,
+      4.0,
+      8.0,
+      4.0,
+      8.0,
+      8.0,
+      8.0,
+      4.0,
+      8.0,
+      8.0,
+      4.0,
+      8.0,
+      0,
+      4.0,
+      4.0,
+      0,
+      6.0,
+      6.0,
+      4.0
+    ]
+  },
+  "hybrid": {
+    "avg_quality_score": 6.4,
+    "avg_total_time": 6.684,
+    "quality_wins": 8,
+    "per_question_scores": [
+      8.0,
+      9.0,
+      4.0,
+      8.0,
+      6.0,
+      8.0,
+      8.0,
+      8.0,
+      6.0,
+      8.0,
+      9.0,
+      2.0,
+      4.0,
+      10,
+      4.0,
+      4.0,
+      2.0,
+      6.0,
+      6.0,
+      8.0
+    ]
+  },
+  "ties": 10,
+  "quality_winner": "Hybrid",
+  "speed_winner": "LangChain",
+  "final_architecture": "Hybrid (LlamaIndex indexing + LangChain orchestration)"
+}
